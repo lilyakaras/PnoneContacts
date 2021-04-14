@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Areas>
+    <Area Name="Arizona">
+        <PhoneCode Value="928"/>
+    </Area>
+    <Area Name="Iowa">
+        <PhoneCode Value="641"/>
+    </Area>
+    <Area Name="Kansas">
+        <PhoneCode Value="785"/>
+    </Area>
+    <Area Name="Ohio">
+        <PhoneCode Value="567"/>
+        <PhoneCode Value="937"/>
+    </Area>
+    <Area Name="Oregon">
+        <PhoneCode Value="541"/>
+    </Area>
+    <Area Name="South Carolina">
+        <PhoneCode Value="843"/>
+    </Area>
+    <Area Name="Texas">
+        <PhoneCode Value="361"/>
+    </Area>
+    <Area Name="Virginia">
+        <PhoneCode Value="276"/>
+        <PhoneCode Value="434"/>
+        <PhoneCode Value="703"/>
+    </Area>
+</Areas>

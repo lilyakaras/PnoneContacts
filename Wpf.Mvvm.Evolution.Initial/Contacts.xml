@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Contacts>
+  <Contact Email="JeffBaker@gmail.com" FirstName="Jeff" Id="755ce4a6-4831-4ee2-9405-a4c9885252d8" LastName="Baker" Phone="4233362" PhoneCode="937" />
+  <Contact Email="SOPHIA.pratt@yahoo.com" FirstName="Sophia" Id="755ce4a6-4831-4ee2-9705-a4c9885252d8" LastName="Pratt" Phone="4639017" PhoneCode="703" />
+  <Contact Email="SMalone@gmail.com" FirstName="Sherry" Id="755ce4a6-4831-3ee2-9405-a4c9885252d8" LastName="Malone" Phone="9458369" PhoneCode="641" />
+  <Contact Email="pereZZZ.l@hotmail.com" FirstName="Laura" Id="755ce4a6-4831-4ee2-9405-a4c9883452d8" LastName="Perez" Phone="4033234" PhoneCode="785" />
+  <Contact Email="Bia.Por@outlook.com" FirstName="Bianca" Id="255ce4a6-4831-4ee2-9405-a4c9885252d8" LastName="Porter" Phone="8831370" PhoneCode="928" />
+  <Contact Email="chrismart@gmail.com" FirstName="Chris" Id="755ce4a6-4831-4ee2-9405-a4c9885252d6" LastName="Martowski" Phone="3269564" PhoneCode="567" />
+  <Contact Email="kim.lee@gmail.com" FirstName="Kimberly" Id="755ce4a6-4431-4ee2-9405-a4c9885252d8" LastName="Lee" Phone="5997380" PhoneCode="434" />
+  <Contact Email="A.Lewis@hotmail.com" FirstName="Amy" Id="755ce4a6-4831-4ee2-9405-a4c8985252d8" LastName="Lewis" Phone="5030710" PhoneCode="541" />
+</Contacts>
